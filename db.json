@@ -69,6 +69,41 @@
         }
       ],
       "Laptops":[
+        {
+          "id": 1,
+          "name": "HP NoteBook s5",
+          "price": "50,000",
+          "desc": "Mi Notebook 14 Intel Core i5-10210U 10th Gen Thin and Light Laptop(8GB/512GB SSD/Windows 10/Nvidia MX250 2GB Graphics/Silver/1.5Kg), XMA1901-DG+Webcam",
+          "img_src": "https://images-na.ssl-images-amazon.com/images/I/71mYRzElTAL._SL1500_.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Lenevo A3",
+          "price": "40,000",
+          "desc": "Mi Notebook 14 Intel Core i5-10210U 10th Gen Thin and Light Laptop(8GB/512GB SSD/Windows 10/Nvidia MX250 2GB Graphics/Silver/1.5Kg), XMA1901-DG+Webcam",
+          "img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq8aONuxpjFZ4YkPBGL8WTMAONGgwMH6AgI0TUU7T1ClnRicN9PLhSmbjVkA&usqp=CAc"
+        },  
+        {
+          "id": 3,
+          "name": "Acer Z series",
+          "price": "30,000",
+          "desc": "Mi Notebook 14 Intel Core i5-10210U 10th Gen Thin and Light Laptop(8GB/512GB SSD/Windows 10/Nvidia MX250 2GB Graphics/Silver/1.5Kg), XMA1901-DG+Webcam",
+          "img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFL1k0Qt9gHNprJBtc8FqjMA49a6e2Aby-48MWZNcJn-ZDGnvNV1g_ijhbVhsWDgE_E3OW2w0&usqp=CAc"
+        },
+        {
+          "id": 4,
+          "name": "Mi NoteBook series",
+          "price": "35,000",
+          "desc": "Mi Notebook 14 Intel Core i5-10210U 10th Gen Thin and Light Laptop(8GB/512GB SSD/Windows 10/Nvidia MX250 2GB Graphics/Silver/1.5Kg), XMA1901-DG+Webcam",
+          "img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFL1k0Qt9gHNprJBtc8FqjMA49a6e2Aby-48MWZNcJn-ZDGnvNV1g_ijhbVhsWDgE_E3OW2w0&usqp=CAc"
+        },
+        {
+          "id": 6,
+          "name": "Acer Z series",
+          "price": "30,000",
+          "desc": "Mi Notebook 14 Intel Core i5-10210U 10th Gen Thin and Light Laptop(8GB/512GB SSD/Windows 10/Nvidia MX250 2GB Graphics/Silver/1.5Kg), XMA1901-DG+Webcam",
+          "img_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFL1k0Qt9gHNprJBtc8FqjMA49a6e2Aby-48MWZNcJn-ZDGnvNV1g_ijhbVhsWDgE_E3OW2w0&usqp=CAc"
+        }
 
       ]
     }
