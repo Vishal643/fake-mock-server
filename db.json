@@ -15,7 +15,11 @@
     {
       "id": 1,
       "title": "Hello World",
-      "status": false
+      "status": false,
+      "description": "This is hello world task",
+      "category":["personal", "official", "others"],
+      "task_status":["Todo", "In Progress", "Done"],
+      "subtasks":[]
   }
   ],
   "products":[ 
