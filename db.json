@@ -113,7 +113,96 @@
      
     }
   ],
-  "cart": [
-        
+  "students": [
+    {
+      "id": 1,
+      "name": "Vishal Kumar",
+      "score": 3,
+      "gender": "Male",
+     "state": "Bihar",
+     "school": "Masai School",
+      "dob": "10 Dec 1998"
+    },
+    {
+      "id": 2,
+      "name": "Uditanshu Kumar",
+      "score": 3,
+      "gender": "Male",
+     "state": "Jharkhand",
+     "school": "Masai School",
+      "dob": "1 Dec 1998"
+    },
+    {
+      "id": 3,
+      "name": "Varsha Kumari",
+      "score": 3,
+      "gender": "Female",
+     "state": "Delhi",
+     "school": "Masai School",
+      "dob": "9 Dec 1998"
+    },
+    {
+      "id": 4,
+      "name": "Nisha Kumari",
+      "score": 2,
+      "gender": "Female",
+     "state": "West Bengal",
+     "school": "Masai School",
+      "dob": "1 Jan 2000"
+    },
+    {
+      "id": 5,
+      "name": "Loyld Dcosta",
+      "score": 3,
+      "gender": "Male",
+     "state": "Kerala",
+     "school": "Masai School",
+      "dob": "9 Dec 1990"
+    },
+    {
+      "id": 6,
+      "name": "Aman Vats",
+      "score": 3,
+      "gender": "Male",
+     "state": "Bihar",
+     "school": "Masai School",
+      "dob": "1 Nov 1995"
+    },
+    {
+      "id": 7,
+      "name": "Ankush",
+      "score": 3,
+      "gender": "Male",
+     "state": "Madhya Pradesh",
+     "school": "Masai School",
+      "dob": "1 Dec 1998"
+    },
+    {
+      "id": 8,
+      "name": "Varsha Kumari",
+      "score": 3,
+      "gender": "Female",
+     "state": "Delhi",
+     "school": "Masai School",
+      "dob": "9 Dec 1998"
+    },
+    {
+      "id": 9,
+      "name": "Varsha Kumari",
+      "score": 3,
+      "gender": "Female",
+     "state": "Delhi",
+     "school": "Masai School",
+      "dob": "9 Dec 1998"
+    },
+    {
+      "id": 10,
+      "name": "Varsha Kumari",
+      "score": 3,
+      "gender": "Female",
+     "state": "Delhi",
+     "school": "Masai School",
+      "dob": "9 Dec 1998"
+    }
   ]
 }
