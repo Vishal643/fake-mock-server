@@ -255,5 +255,141 @@
 				}
 			]
 		}
+	], 
+	"business":[
+		{
+			"general":[
+				{
+					"id": 1,
+					"headline": "'Top 100 brands will lose $223 billion in brand value from data breach'",
+					"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				},
+				{
+					"id": 2,
+					"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
+					"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				},
+				{
+					"id": 3,
+					"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+					"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				},
+				{
+					"id": 4,
+					"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
+					"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				},
+				{
+					"id": 5,
+					"headline": "Trai suspends new text message norms",
+					"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				},
+				{
+					"id": 6,
+					"headline": "UAE makes it to top 10 list of corporate tax havens",
+					"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				}
+			],
+			"india":[
+				{
+					"id": 1,
+					"headline": "Retail inflation probably rose in February: Poll",					
+					"description": "NEW DELHI:probabaly rose in February as food and fuel prices went up remained within the Reserve Bank of India's target range for a third straight month, a Reuters poll predicted.As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.nc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high",
+					"image_link": "https://static.toiimg.com/thumb/msid-81423717,imgsize-93670,width-400,resizemode-4/81423717.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				},
+				{
+					"id": 2,
+					"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
+					"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				},
+				{
+					"id": 3,
+					"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+					"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				},
+				{
+					"id": 4,
+					"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
+					"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				},
+				{
+					"id": 5,
+					"headline": "Trai suspends new text message norms",
+					"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				},
+				{
+					"id": 6,
+					"headline": "UAE makes it to top 10 list of corporate tax havens",
+					"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				}
+			],
+			"international":[
+				{
+					"id": 1,
+					"headline": "Retail inflation probably rose in February: Poll",					
+					"description": "NEW DELHI:probabaly rose in February as food and fuel prices went up remained within the Reserve Bank of India's target range for a third straight month, a Reuters poll predicted.As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.nc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high",
+					"image_link": "https://static.toiimg.com/thumb/msid-81423717,imgsize-93670,width-400,resizemode-4/81423717.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				},
+				{
+					"id": 2,
+					"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
+					"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				},
+				{
+					"id": 3,
+					"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+					"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				},
+				{
+					"id": 4,
+					"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
+					"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				},
+				{
+					"id": 5,
+					"headline": "Trai suspends new text message norms",
+					"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				},
+				{
+					"id": 6,
+					"headline": "UAE makes it to top 10 list of corporate tax havens",
+					"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+					"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+					"subcategory": ["economy", "finance" ,"others"]
+				}
+			]
+		}
 	]
 }
