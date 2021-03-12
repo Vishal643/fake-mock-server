@@ -200,35 +200,35 @@
 	],
 	"indian_tech_news": [
 		{
-			"id": 1,
+			"id": "1",
 			"headline": "UAE makes it to top 10 list of corporate tax havens",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
 			"description": "US sues EZ Lynk for selling CMPNY vehicle emissions defeat devices",
 			"subcategory": ["tech", "gadgets"]
 		},
 		{
-			"id": 2,
+			"id": "2",
 			"headline": "UAE makes it to top 10 list of corporate tax havens",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81408628,imgsize-97514,width-400/81408628.jpg",
 			"description": "Twitter sues Texas AG, claiming retaliation for Trump ban",
 			"subcategory": ["tech", "gadgets"]
 		},
 		{
-			"id": 3,
+			"id": "3",
 			"headline": "UAE makes it to top 10 list of corporate tax havens",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81412918,imgsize-21913,width-400/81412918.jpg",
 			"description": "Google rolls out Full Coverage feature in Google Search, here’s",
 			"subcategory": ["tech", "gadgets"]
 		},
 		{
-			"id": 4,
+			"id": "4",
 			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411409,imgsize-39655,width-400/81411409.jpg",
 			"description": "Amazon is giving up to 52% off on Motorola smartphones",
 			"subcategory": ["tech", "gadgets"]
 		},
 		{
-			"id": 5,
+			"id": "5",
 			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81393664,imgsize-14172,width-400/81393664.jpg",
 			"description": "Amazon is offering up to $140 discount on Apple iMac",
@@ -238,35 +238,35 @@
 	],	
 	"us_tech_news": [
 		{
-			"id": 1,
+			"id": "1",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81306044,imgsize-18898,width-400/81306044.jpg",
 			"description": "5 reasons to have LG dishwasher in your kitchen",
 			"subcategory": ["tech", "gadgets"]
 		},
 		{
-			"id": 2,
+			"id": "2",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81405733,imgsize-3164415,width-400/81405733.jpg",
 			"description": "Oppo F19 Pro+ 5G launched at Rs 25,990: All details",
 			"subcategory": ["tech", "gadgets"]
 		},
 		{
-			"id": 3,
+			"id": "3",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81408763,imgsize-240998,width-400/81408763.jpg",
 			"description": "What makes Galaxy M12 a #MosnterReloaded?",
 			"subcategory": ["tech", "gadgets"]
 		},
 		{
-			"id": 4,
+			"id": "4",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81404255,imgsize-37422,width-400/81404255.jpg",
 			"description": "OnePlus 9 to launch on March 23: Likely specifications, free...",
 			"subcategory": ["tech", "gadgets"]
 		},
 		{
-			"id": 5,
+			"id": "5",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81413165,imgsize-468082,width-400/81413165.jpg",
 			"description": "Reliance Jio launches affordable digital plans for small businesses",
