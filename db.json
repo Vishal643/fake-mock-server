@@ -204,35 +204,45 @@
 			"headline": "UAE makes it to top 10 list of corporate tax havens",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
 			"description": "US sues EZ Lynk for selling CMPNY vehicle emissions defeat devices",
-			"subcategory": ["tech", "gadgets"]
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 7,
+			"date": "2010-01-28"
 		},
 		{
 			"id": "2",
 			"headline": "UAE makes it to top 10 list of corporate tax havens",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81408628,imgsize-97514,width-400/81408628.jpg",
 			"description": "Twitter sues Texas AG, claiming retaliation for Trump ban",
-			"subcategory": ["tech", "gadgets"]
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 17,
+			"date": "2010-11-08"
 		},
 		{
 			"id": "3",
 			"headline": "UAE makes it to top 10 list of corporate tax havens",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81412918,imgsize-21913,width-400/81412918.jpg",
 			"description": "Google rolls out Full Coverage feature in Google Search, here’s",
-			"subcategory": ["tech", "gadgets"]
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 1,
+			"date": "2010-09-28"
 		},
 		{
 			"id": "4",
 			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411409,imgsize-39655,width-400/81411409.jpg",
 			"description": "Amazon is giving up to 52% off on Motorola smartphones",
-			"subcategory": ["tech", "gadgets"]
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 0,
+			"date": "2020-01-28"
 		},
 		{
 			"id": "5",
 			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81393664,imgsize-14172,width-400/81393664.jpg",
 			"description": "Amazon is offering up to $140 discount on Apple iMac",
-			"subcategory": ["tech", "gadgets"]
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 17,
+			"date": "2019-01-28"
 		}
 		
 	],	
@@ -242,195 +252,191 @@
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81306044,imgsize-18898,width-400/81306044.jpg",
 			"description": "5 reasons to have LG dishwasher in your kitchen",
-			"subcategory": ["tech", "gadgets"]
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 7,
+			"date": "2010-01-28"
 		},
 		{
 			"id": "2",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81405733,imgsize-3164415,width-400/81405733.jpg",
 			"description": "Oppo F19 Pro+ 5G launched at Rs 25,990: All details",
-			"subcategory": ["tech", "gadgets"]
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 9,
+			"date": "2020-01-18"
 		},
 		{
 			"id": "3",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81408763,imgsize-240998,width-400/81408763.jpg",
 			"description": "What makes Galaxy M12 a #MosnterReloaded?",
-			"subcategory": ["tech", "gadgets"]
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 5,
+			"date": "2010-11-28"
 		},
 		{
 			"id": "4",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81404255,imgsize-37422,width-400/81404255.jpg",
 			"description": "OnePlus 9 to launch on March 23: Likely specifications, free...",
-			"subcategory": ["tech", "gadgets"]
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 11,
+			"date": "2011-11-28"
 		},
 		{
 			"id": "5",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81413165,imgsize-468082,width-400/81413165.jpg",
 			"description": "Reliance Jio launches affordable digital plans for small businesses",
-			"subcategory": ["tech", "gadgets"]
+			"subcategory": ["tech", "gadgets"],
+			"readerCount": 11,
+			"date": "2021-11-28"
 		}
 	],
 
 	"international_business_news":[
 		{
-			"id": 1,
+			"id": "1",
 			"headline": "Retail inflation probably rose in February: Poll",					
 			"description": "NEW DELHI:probabaly rose in February as food and fuel prices went up remained within the Reserve Bank of India's target range for a third straight month, a Reuters poll predicted.As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.nc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high",
 			"image_link": "https://static.toiimg.com/thumb/msid-81423717,imgsize-93670,width-400,resizemode-4/81423717.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 7,
+			"date": "2010-01-28"
 		},
 		{
-			"id": 2,
+			"id": "2",
 			"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
 			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 11,
+			"date": "2010-01-28"
 		},
 		{
-			"id": 3,
+			"id": "3",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 10,
+			"date": "2010-11-28"
 		},
 		{
-			"id": 4,
+			"id": "4",
 			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
 			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 18,
+			"date": "2010-01-18"
 		},
 		{
-			"id": 5,
+			"id": "5",
 			"headline": "Trai suspends new text message norms",
 			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 17,
+			"date": "2011-01-28"
 		},
 		{
-			"id": 6,
+			"id": "6",
 			"headline": "UAE makes it to top 10 list of corporate tax havens",
 			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 1,
+			"date": "2010-01-08"
 		},
 
 		{
-			"id": 7,
+			"id": "7",
 			"headline": "Now hiring: ‘Temp CXOs’ for India Inc",
 			"description": "NEW DELHI: A mid-sized manufacturing company wanted to consolidate its business by shutting down one of its factories. But it didn’t have a person in a senior leadership position who could handle the various aspects of a closure, including labour and compliance issues.<br/>Hunting for a full-time top exec would have cost the, and money. It, therefore, roped in a ‘temp CEO’, who not only finished the job in about nine months but also found a buyer for the unit.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81441867,imgsize-45995,width-400,resizemode-4/81441867.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 0,
+			"date": "2019-01-28"
 		},
 		{
-			"id": 8,
+			"id": "8",
 			"headline": "Govt seeks to firewall telecom infra from Chinese threat",
 			"description": "NEW DELHI: In a move that will restrict the business of top Chinese vendors such as. But it didn’t have a person in a senior leadership position who could handle the various aspects of a closure, including labour and compliance issues.<br/>Hunting for a full-time top exec would have cost the, and money. It, therefore, roped in a ‘temp CEO’, who not only finished the job in about nine months but also found a buyer for the unit.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81439919,imgsize-669309,width-400,resizemode-4/81439919.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 1,
+			"date": "2020-01-28"
 		},
 		{
-			"id": 9,
+			"id": "9",
 			"headline": "Indospace takes 55 acres in Haryana from RIL for warehouse",
 			"description": "NEW DELHI: In a move that will restrict the business of top Chinese vendors such as. But it didn’t have a person in a senior leadership position who could handle the various aspects of a closure, including labour and compliance issues.<br/>Hunting for a full-time top exec would have cost the, and money. It, therefore, roped in a ‘temp CEO’, who not only finished the job in about nine months but also found a buyer for the unit.",
 			"image_link": "https://static.toiimg.com/thumb/msid-47529300,imgsize-110164,width-400,resizemode-4/47529300.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
+			"subcategory": ["economy", "finance" ,"others"],
+			"readerCount": 11,
+			"date": "2010-11-18"
 		}
 	],
 	"general_business_news":[
 		{
-			"id": 1,
+			"id": "1",
 			"headline": "'Top 100 brands will lose $223 billion in brand value from data breach'",
 			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2017-01-02",
+			"readerCount": 9
 		},
 		{
-			"id": 2,
+			"id": "2",
 			"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
 			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2017-01-01",
+			"readerCount": 0
 		},
 		{
-			"id": 3,
+			"id": "3",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2018-02-02",
+			"readerCount": 1
 		},
 		{
-			"id": 4,
+			"id": "4",
 			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
 			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2017-11-11",
+			"readerCount": 2
 		},
 		{
-			"id": 5,
+			"id": "5",
 			"headline": "Trai suspends new text message norms",
 			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-11-03",
+			"readerCount": 3
 		},
 		{
-			"id": 6,
+			"id": "6",
 			"headline": "UAE makes it to top 10 list of corporate tax havens",
 			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2020-01-02",
+			"readerCount": 4
 		}
 	],
 	"indian_business_news":[
 		{
-			"id": 1,
-			"headline": "Retail inflation probably rose in February: Poll",					
-			"description": "NEW DELHI:probabaly rose in February as food and fuel prices went up remained within the Reserve Bank of India's target range for a third straight month, a Reuters poll predicted.As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.nc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high",
-			"image_link": "https://static.toiimg.com/thumb/msid-81423717,imgsize-93670,width-400,resizemode-4/81423717.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
-		},
-		{
-			"id": 2,
-			"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
-			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
-			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
-		},
-		{
-			"id": 3,
-			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
-			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
-			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
-		},
-		{
-			"id": 4,
-			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
-			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
-			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
-		},
-		{
-			"id": 5,
-			"headline": "Trai suspends new text message norms",
-			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
-			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
-		},
-		{
-			"id": 6,
-			"headline": "UAE makes it to top 10 list of corporate tax havens",
-			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
-			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
-			"subcategory": ["economy", "finance" ,"others"]
-		}
-	],
-	"all_news":[
-		{
-			"id": 1,
+			"id": "1",
 			"headline": "Retail inflation probably rose in February: Poll",					
 			"description": "NEW DELHI:probabaly rose in February as food and fuel prices went up remained within the Reserve Bank of India's target range for a third straight month, a Reuters poll predicted.As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.nc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high",
 			"image_link": "https://static.toiimg.com/thumb/msid-81423717,imgsize-93670,width-400,resizemode-4/81423717.jpg",
@@ -439,7 +445,7 @@
 			"readerCount": 3
 		},
 		{
-			"id": 2,
+			"id": "2",
 			"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
 			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
@@ -448,7 +454,7 @@
 			"readerCount": 4
 		},
 		{
-			"id": 3,
+			"id": "3",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
@@ -457,7 +463,7 @@
 			"readerCount": 2
 		},
 		{
-			"id": 4,
+			"id": "4",
 			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
 			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
@@ -466,7 +472,7 @@
 			"readerCount": 30
 		},
 		{
-			"id": 5,
+			"id": "5",
 			"headline": "Trai suspends new text message norms",
 			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
@@ -475,7 +481,63 @@
 			"readerCount": 1
 		},
 		{
-			"id": 6,
+			"id": "6",
+			"headline": "UAE makes it to top 10 list of corporate tax havens",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-04-28",
+			"readerCount": 0
+		}
+	],
+	"all_news":[
+		{
+			"id": "1",
+			"headline": "Retail inflation probably rose in February: Poll",					
+			"description": "NEW DELHI:probabaly rose in February as food and fuel prices went up remained within the Reserve Bank of India's target range for a third straight month, a Reuters poll predicted.As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.nc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423717,imgsize-93670,width-400,resizemode-4/81423717.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-06-28",
+			"readerCount": 3
+		},
+		{
+			"id": "2",
+			"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2018-06-28",
+			"readerCount": 4
+		},
+		{
+			"id": "3",
+			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2020-06-28",
+			"readerCount": 2
+		},
+		{
+			"id": "4",
+			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
+			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2011-06-21",
+			"readerCount": 30
+		},
+		{
+			"id": "5",
+			"headline": "Trai suspends new text message norms",
+			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
+			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
+			"subcategory": ["economy", "finance" ,"others"],
+			"date": "2019-06-18",
+			"readerCount": 1
+		},
+		{
+			"id": "6",
 			"headline": "UAE makes it to top 10 list of corporate tax havens",
 			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
@@ -484,7 +546,7 @@
 			"readerCount": 0
 		},
 		{
-			"id": 7,
+			"id": "7",
 			"headline": "'Top 100 brands will lose $223 billion in brand value from data breach'",
 			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
@@ -493,7 +555,7 @@
 			"readerCount": 9
 		},
 		{
-			"id": 8,
+			"id": "8",
 			"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
 			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
@@ -502,7 +564,7 @@
 			"readerCount": 4
 		},
 		{
-			"id": 9,
+			"id": "9",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
@@ -511,7 +573,7 @@
 			"readerCount": 11
 		},
 		{
-			"id": 10,
+			"id": "10",
 			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
 			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
@@ -520,7 +582,7 @@
 			"readerCount": 6
 		},
 		{
-			"id": 11,
+			"id": "11",
 			"headline": "Trai suspends new text message norms",
 			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
@@ -529,7 +591,7 @@
 			"readerCount": 3
 		},
 		{
-			"id": 12,
+			"id": "12",
 			"headline": "UAE makes it to top 10 list of corporate tax havens",
 			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
@@ -538,7 +600,7 @@
 			"readerCount": 0
 		},
 		{
-			"id": 13,
+			"id": "13",
 			"headline": "Retail inflation probably rose in February: Poll",					
 			"description": "NEW DELHI:probabaly rose in February as food and fuel prices went up remained within the Reserve Bank of India's target range for a third straight month, a Reuters poll predicted.As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.nc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high",
 			"image_link": "https://static.toiimg.com/thumb/msid-81423717,imgsize-93670,width-400,resizemode-4/81423717.jpg",
@@ -547,7 +609,7 @@
 			"readerCount": 3
 		},
 		{
-			"id": 14,
+			"id": "14",
 			"headline": "'Tesla surges almost 20%, biggest daily rise in a year'",
 			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
@@ -556,7 +618,7 @@
 			"readerCount": 8
 		},
 		{
-			"id": 15,
+			"id": "15",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
@@ -565,7 +627,7 @@
 			"readerCount": 31
 		},
 		{
-			"id": 16,
+			"id": "16",
 			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
 			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
@@ -574,7 +636,7 @@
 			"readerCount": 3
 		},
 		{
-			"id": 17,
+			"id": "17",
 			"headline": "Trai suspends new text message norms",
 			"description": "BENGALURU: A study by<br />estimated the impact of a breach with scores from its flagship property Best Global Brand (BGB) 2020 as a benchmark to estimate and simulate the value at risk for a brand in the event of a data breac<br/>Interbrand used three parameters to assess the risk – a financial forecast that captures consensus estimates of future revenues and future profits on which valuation is built, the role of brand in the purchase decision, and brand strength. The study found that technology, financial services, and automotive might suffer a higher brand value at risk from data breaches, whereas luxury brands and consumer goods face greater value at risk as a percentage of their net income<br/>ech brands top the chart with $29 billion in brand value risk they might carry in an event of a data breach due to the ubiquity of tech in our everyday lives. Consumer goods and automotive companies carry up to $5 billion and $4.2 billion of brand value risk respectively. And financial services might end up with an exposure of $2.6 billion brand value risk.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81423670,imgsize-84976,width-400,resizemode-4/81423670.jpg",
@@ -583,7 +645,7 @@
 			"readerCount": 3
 		},
 		{
-			"id": 18,
+			"id": "18",
 			"headline": "UAE makes it to top 10 list of corporate tax havens",
 			"description": "NEW DELHI: Shares of electric vehicle maker<br />Inc surged nearly 20% on Tuesday, rebounding from a deep selloff with its largest daily gain in a year after data showed an increase in China sales and an analyst raised his rating on the stock<br/>Tesla's stock ended at $673.58 after its strongest daily rise since February 2020. The stock remains down more than 20% from its January record high<br/>As much as the market severely corrected the recent excesses of optimism reflected in Tesla’s valuation, our recent work strengthened our confidence about the solid outlook for the company in the next two years, Ferragu wrote in a client note.",
 			"image_link": "https://static.toiimg.com/thumb/msid-81422338,imgsize-581974,width-400,resizemode-4/81422338.jpg",
@@ -592,7 +654,7 @@
 			"readerCount": 5
 		},
 		{
-			"id": 19,
+			"id": "19",
 			"headline": "UAE makes it to top 10 list of corporate tax havens",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
 			"description": "US sues EZ Lynk for selling CMPNY vehicle emissions defeat devices",
@@ -601,7 +663,7 @@
 			"readerCount": 6
 		},
 		{
-			"id": 20,
+			"id": "20",
 			"headline": "UAE makes it to top 10 list of corporate tax havens",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81408628,imgsize-97514,width-400/81408628.jpg",
 			"description": "Twitter sues Texas AG, claiming retaliation for Trump ban",
@@ -610,7 +672,7 @@
 			"readerCount": 1
 		},
 		{
-			"id": 21,
+			"id": "21",
 			"headline": "UAE makes it to top 10 list of corporate tax havens",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81412918,imgsize-21913,width-400/81412918.jpg",
 			"description": "Google rolls out Full Coverage feature in Google Search, here’s",
@@ -619,7 +681,7 @@
 			"readerCount": 3
 		},
 		{
-			"id": 22,
+			"id": "22",
 			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411409,imgsize-39655,width-400/81411409.jpg",
 			"description": "Amazon is giving up to 52% off on Motorola smartphones",
@@ -628,7 +690,7 @@
 			"readerCount": 2
 		},
 		{
-			"id": 23,
+			"id": "23",
 			"headline": "'Times Prime membership at Just Rs. 499, Use Code - TPCL40'",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81393664,imgsize-14172,width-400/81393664.jpg",
 			"description": "Amazon is offering up to $140 discount on Apple iMac",
@@ -637,7 +699,7 @@
 			"readerCount": 3
 		},
 		{
-			"id": 24,
+			"id": "24",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"img_src": "https://static.toiimg.com/thumb/resizemode-4,msid-81306044,imgsize-18898,width-400/81306044.jpg",
 			"description": "5 reasons to have LG dishwasher in your kitchen",
@@ -646,7 +708,7 @@
 			"readerCount": 5
 		},
 		{
-			"id": 25,
+			"id": "25",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"img_src": "https://static.toiimg.com/thumb/resizemode-4,msid-81405733,imgsize-3164415,width-400/81405733.jpg",
 			"description": "Oppo F19 Pro+ 5G launched at Rs 25,990: All details",
@@ -655,7 +717,7 @@
 			"readerCount": 3
 		},
 		{
-			"id": 26,
+			"id": "26",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"img_src": "https://static.toiimg.com/thumb/resizemode-4,msid-81408763,imgsize-240998,width-400/81408763.jpg",
 			"description": "What makes Galaxy M12 a #MosnterReloaded?",
@@ -664,7 +726,7 @@
 			"readerCount": 1
 		},
 		{
-			"id": 27,
+			"id": "27",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"img_src": "https://static.toiimg.com/thumb/resizemode-4,msid-81404255,imgsize-37422,width-400/81404255.jpg",
 			"description": "OnePlus 9 to launch on March 23: Likely specifications, free...",
@@ -673,7 +735,7 @@
 			"readerCount": 5
 		},
 		{
-			"id": 28,
+			"id": "28",
 			"headline": "LPG price has doubled in 7 years, and the subsidies are gone too",
 			"img_src": "https://static.toiimg.com/thumb/resizemode-4,msid-81413165,imgsize-468082,width-400/81413165.jpg",
 			"description": "Reliance Jio launches affordable digital plans for small businesses",
@@ -682,7 +744,7 @@
 			"readerCount": 35		
 		},
 		{
-			"id": 29,
+			"id": "29",
 			"headline": "'Gift of Life': Gavaskar recalls how Sobers helped him 'keep place in side'",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
 			"description": "NAVI MUMBAI: As Indian celebrates 50 years of his iconic Test debut,Sunil Gavaskar<br />Wednesday said he wouldn't have lasted this long had it not been for a couple of lives given by none other than the great Sir Garfield Sobers<br />In my first Test match that I was playing, I was batting on 12 and a drive outside the off-stump and the catch went to the greatest cricketer...Garfield Sobers, it went straight to him and it poked out of his hands, I was on only 12, so I got a gift of cricketing life there, the 71-year-old said here.",
@@ -691,7 +753,7 @@
 			"readerCount": 3
 		},
 		{
-			"id": 30,
+			"id": "30",
 			"headline": "India vs England T20Is: Top 5 England bowlers to watch out for",
 			"image_link": "https://static.toiimg.com/thumb/msid-81430122,imgsize-816102,width-400,resizemode-4/81430122.jpg",
 			"description": "NEW DELHI: After suffering a 1-3 defeat at the hands of India in the four-match Test series, England will look to turn their fortunes around in the five-match T20I series beginning on March 12 in Ahmedabad.<br />The upcoming series will help both teams get some very good practice before the T20 World Cup which is scheduled to be played in October-November this year in India.The world number one T20I and ODI team, England, boast good bowlers in their ranks who can win matches on their own",
@@ -700,7 +762,7 @@
 			"readerCount": 1
 		},
 		{
-			"id": 31,
+			"id": "31",
 			"headline": "Pant reaches career-best seventh position in ICC Test rankin...",
 			"image_link": "https://static.toiimg.com/thumb/msid-81430122,imgsize-816102,width-400,resizemode-4/81430122.jpg",
 			"description": "DUBAI: Following his breathtaking century in the fourth Test against England, young Indian wicketkeeper batsman<br/>Rishabh Pant on Wednesday achieved a career-best seventh position in the ICC Test rankings< br/> Pant has jumped seven places after smashing a match-winning 101 in the Ahmedabad Test, which India won by an innings and 25 runs to clinch the series 3-1.Washington Sundar, who also played a crucial role in India's passage to the final of the ICC World Test Championship, has gained 39 places and is in 62nd position, thanks to his 96 not out, but captain Virat Kohli and <img src='https://static.toiimg.com/photo/81422300.cms'/>",
@@ -709,7 +771,7 @@
 			"readerCount": 4
 		},
 		{
-			"id": 32,
+			"id": "32",
 			"headline": "Record-breaker Haaland can 'dominate an era'",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
 			"description": "BERLIN:coach Julen Lopetegui predicts,We were punished by a player who will dominate an era, said Lopetegui after Haaland sent more Champions League records tumbling with two goals in Tuesday's last 16, return leg. Sevilla earned a 2-2 draw after Youssef En-Nesyri headed his second goal deep into injury time, but Dortmund went through 5-4 on aggregate and the night belonged to Haaland. The Norwegian phenomenon has now scored a career total of 20 goals in just 14 Champions League, including the two he scored in a 3-2 victory when Dortmund won the first-leg in Sevilla.",
@@ -718,7 +780,7 @@
 			"readerCount": 1
 		},
 		{
-			"id": 33,
+			"id": "33",
 			"headline": "Juventus' Ronaldo experiment flops with more Champions Leagu ..",
 			"image_link": "https://static.toiimg.com/thumb/msid-81434805,imgsize-122363,width-400,resizemode-4/81434805.jpg",
 			"description": "TURIN: Cristiano Ronaldo's future at Juventus was in the spotlight after a third Champions League flop for the Portuguese star expensively signed to deliver the trophy that has eluded the Italian giants for quarter of a century. Juventus crashed out in the last 16 for the second year running on Tuesday night, losing to 10-man Porto on away goals despite winning the second leg 3-2 in Turin Record Champions League scorer Ronaldo, who was signed for 100 million euros ($117 million) in the summer of 2018 from",
@@ -727,7 +789,7 @@
 			"readerCount": 3
 		},
 		{
-			"id": 34,
+			"id": "34",
 			"headline": "Jose Mourinho looking to mark career milestone with trophy for Spurs",
 			"description": "Tottenham Hotspur Jose Mourinho will be managing his 1,000th match later this season and the Portuguese said on Wednesday there was no better way to mark the milestone than by winning a trophy for the Spurs last won a trophy in 2008 when they lifted the League Cup and the north London club are in the final once again this season while they are also in contention in the Europa League. < br/>I'm not a big guy on stats, but my 1,000th official match is going to arrive this season, Mourinho told reporters ahead of Thursday's Europa League last-16, first leg against Dinamo Zagreb.",
 			"subcategory": ["sports", "football"],
@@ -735,7 +797,7 @@
 			"readerCount": 3
 		},
 		{
-			"id": 35,
+			"id": "35",
 			"headline": "Jose Mourinho looking to mark career milestone with trophy for Spurs",
 			"description": "Tottenham Hotspur Pep Guardiola says he may not be able to give much time on the pitch before his contract is due to end as the club's record goalscorer, 32, is back in contention after a season ravaged by injury and illness but is short of match fitness and there is little opportunity for the City boss to ease him back into action Asked if he hopes Aguero stays longer at the Etihad, Guardiola said: As a human and as a person, even as a player, of course -- but we have to see what happens at the end of the season.",
 			"subcategory": ["sports", "football"],
@@ -743,7 +805,7 @@
 			"readerCount": 3
 		},
 		{
-			"id": 36,
+			"id": "36",
 			"headline": "Man City vs Gladbach Champions League game to be played in Budapest",
 			"description": "Tottenham travel restrictions in Europe and will now be held on March 16 at the Puskas Arena, UEFA added. The game was originally scheduled for City's Etihad Stadium, and the first leg in Germany was also shifted to Budapest on February 24 UEFA is able to officially confirm that the UEFA Champions League round of 16 second leg match between Manchester City and Borussia Monchengladbach will now be played at the Puskas Arena in Budapest, the governing body said in a statement.",
 			"subcategory": ["sports", "football"],
@@ -751,7 +813,7 @@
 			"readerCount": 3
 		},
 		{
-			"id": 37,
+			"id": "37",
 			"headline": "We are not seeing this as dress rehearsal for T20 World Cup: Rohit Sharma",
 			"image_link": "https://static.toiimg.com/thumb/msid-81434030,imgsize-940863,width-400,resizemode-4/81434030.jpg",
 			"description": "AHMEDABAD: India vice-captain, young Indian wicketkeeper batsman<br/>Rishabh Pant on Wednesday achieved a career-best seventh position in the ICC Test rankings< br/> India have picked some fresh faces for the series while resting lead pacer Jasprit Bumrah as the team looks to build on its preparations for the showpiece event. Pant has jumped seven places after smashing a match-winning 101 in the Ahmedabad Test, which India won by an innings and 25 runs to clinch the series 3-1.Washington Sundar, who also played a crucial role in India's passage to the final of the ICC World Test Championship, on Wednesday said his team is not seeing the upcoming five-match series against England as a dress rehearsal for the",
@@ -760,7 +822,7 @@
 			"readerCount": 3
 		},
 		{
-			"id": 38,
+			"id": "38",
 			"headline": "Michael Vaughan warns Test cricket a 'joke' if England rotate in Ashes",
 			"image_link": "https://static.toiimg.com/thumb/msid-81435233,imgsize-68325,width-400,resizemode-4/81435233.jpg",
 			"description": "LONDON: Michael Vaughan, fears Test cricket will become a 'joke' if England rotate players in and out of their side during the 2021/22 Ashes in Australia< br/> England coach picked some fresh faces for the series while resting lead pacer has suggested the team could continue with the controversial rest-and-rotation policy they used in Sri Lanka and India.. Pant has jumped seven places after smashing a match-winning 101 in the Ahmedabad Test, which India won by an innings and 25 runs to clinch the series 3-1.Washington Sundar, who also played a crucial role in India's passage to the final of the ICC World Test Championship, on Wednesday said his team is not seeing the upcoming five-match series against England as a dress rehearsal for the A number of players including",
@@ -772,135 +834,165 @@
 
 	"cricket":[
 		{
-			"id": 1,
+			"id": "1",
 			"headline": "'Gift of Life': Gavaskar recalls how Sobers helped him 'keep place in side'",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
 			"description": "NAVI MUMBAI: As Indian celebrates 50 years of his iconic Test debut,Sunil Gavaskar<br />Wednesday said he wouldn't have lasted this long had it not been for a couple of lives given by none other than the great Sir Garfield Sobers<br />In my first Test match that I was playing, I was batting on 12 and a drive outside the off-stump and the catch went to the greatest cricketer...Garfield Sobers, it went straight to him and it poked out of his hands, I was on only 12, so I got a gift of cricketing life there, the 71-year-old said here.",
-			"subcategory": ["sports", "cricket"]
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 7,
+			"date": "2020-01-28"
 		},
 		{
-			"id": 2,
+			"id": "2",
 			"headline": "India vs England T20Is: Top 5 England bowlers to watch out for",
 			"image_link": "https://static.toiimg.com/thumb/msid-81430122,imgsize-816102,width-400,resizemode-4/81430122.jpg",
 			"description": "NEW DELHI: After suffering a 1-3 defeat at the hands of India in the four-match Test series, England will look to turn their fortunes around in the five-match T20I series beginning on March 12 in Ahmedabad.<br />The upcoming series will help both teams get some very good practice before the T20 World Cup which is scheduled to be played in October-November this year in India.The world number one T20I and ODI team, England, boast good bowlers in their ranks who can win matches on their own",
-			"subcategory": ["sports", "cricket"]
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 4,
+			"date": "2010-01-28"
 		},
 		{
-			"id": 4,
+			"id": "4",
 			"headline": "We are not seeing this as dress rehearsal for T20 World Cup: Rohit Sharma",
 			"image_link": "https://static.toiimg.com/thumb/msid-81434030,imgsize-940863,width-400,resizemode-4/81434030.jpg",
 			"description": "AHMEDABAD: India vice-captain, young Indian wicketkeeper batsman<br/>Rishabh Pant on Wednesday achieved a career-best seventh position in the ICC Test rankings< br/> India have picked some fresh faces for the series while resting lead pacer Jasprit Bumrah as the team looks to build on its preparations for the showpiece event. Pant has jumped seven places after smashing a match-winning 101 in the Ahmedabad Test, which India won by an innings and 25 runs to clinch the series 3-1.Washington Sundar, who also played a crucial role in India's passage to the final of the ICC World Test Championship, on Wednesday said his team is not seeing the upcoming five-match series against England as a dress rehearsal for the",
-			"subcategory": ["sports", "cricket"]
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 6,
+			"date": "2011-11-28"
 		},
 		{
-			"id": 5,
+			"id": "5",
 			"headline": "Michael Vaughan warns Test cricket a 'joke' if England rotate in Ashes",
 			"image_link": "https://static.toiimg.com/thumb/msid-81435233,imgsize-68325,width-400,resizemode-4/81435233.jpg",
 			"description": "LONDON: Michael Vaughan, fears Test cricket will become a 'joke' if England rotate players in and out of their side during the 2021/22 Ashes in Australia< br/> England coach picked some fresh faces for the series while resting lead pacer has suggested the team could continue with the controversial rest-and-rotation policy they used in Sri Lanka and India.. Pant has jumped seven places after smashing a match-winning 101 in the Ahmedabad Test, which India won by an innings and 25 runs to clinch the series 3-1.Washington Sundar, who also played a crucial role in India's passage to the final of the ICC World Test Championship, on Wednesday said his team is not seeing the upcoming five-match series against England as a dress rehearsal for the A number of players including",
-			"subcategory": ["sports", "cricket"]
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 17,
+			"date": "2010-01-18"
 		}
 	],
 	"football":[
 		{
-			"id": 1,
+			"id": "1",
 			"headline": "Record-breaker Haaland can 'dominate an era'",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
 			"description": "BERLIN:coach Julen Lopetegui predicts,We were punished by a player who will dominate an era, said Lopetegui after Haaland sent more Champions League records tumbling with two goals in Tuesday's last 16, return leg. Sevilla earned a 2-2 draw after Youssef En-Nesyri headed his second goal deep into injury time, but Dortmund went through 5-4 on aggregate and the night belonged to Haaland. The Norwegian phenomenon has now scored a career total of 20 goals in just 14 Champions League, including the two he scored in a 3-2 victory when Dortmund won the first-leg in Sevilla.",
-			"subcategory": ["sports", "football"]
+			"subcategory": ["sports", "football"],
+			"readerCount": 7,
+			"date": "2020-11-28"
 		},
 		{
-			"id": 2,
+			"id": "2",
 			"headline": "Juventus' Ronaldo experiment flops with more Champions Leagu ..",
 			"image_link": "https://static.toiimg.com/thumb/msid-81434805,imgsize-122363,width-400,resizemode-4/81434805.jpg",
 			"description": "TURIN: Cristiano Ronaldo's future at Juventus was in the spotlight after a third Champions League flop for the Portuguese star expensively signed to deliver the trophy that has eluded the Italian giants for quarter of a century. Juventus crashed out in the last 16 for the second year running on Tuesday night, losing to 10-man Porto on away goals despite winning the second leg 3-2 in Turin Record Champions League scorer Ronaldo, who was signed for 100 million euros ($117 million) in the summer of 2018 from",
-			"subcategory": ["sports", "football"]
+			"subcategory": ["sports", "football"],
+			"readerCount": 1,
+			"date": "2011-11-28"
 		},
 		{
-			"id": 3,
+			"id": "3",
 			"headline": "Jose Mourinho looking to mark career milestone with trophy for Spurs",
 			"description": "Tottenham Hotspur Jose Mourinho will be managing his 1,000th match later this season and the Portuguese said on Wednesday there was no better way to mark the milestone than by winning a trophy for the Spurs last won a trophy in 2008 when they lifted the League Cup and the north London club are in the final once again this season while they are also in contention in the Europa League. < br/>I'm not a big guy on stats, but my 1,000th official match is going to arrive this season, Mourinho told reporters ahead of Thursday's Europa League last-16, first leg against Dinamo Zagreb.",
-			"subcategory": ["sports", "football"]
+			"subcategory": ["sports", "football"],
+			"readerCount": 7,
+			"date": "2011-11-18"
 		},
 		{
-			"id": 4,
+			"id": "4",
 			"headline": "Jose Mourinho looking to mark career milestone with trophy for Spurs",
 			"description": "Tottenham Hotspur Pep Guardiola says he may not be able to give much time on the pitch before his contract is due to end as the club's record goalscorer, 32, is back in contention after a season ravaged by injury and illness but is short of match fitness and there is little opportunity for the City boss to ease him back into action Asked if he hopes Aguero stays longer at the Etihad, Guardiola said: As a human and as a person, even as a player, of course -- but we have to see what happens at the end of the season.",
-			"subcategory": ["sports", "football"]
+			"subcategory": ["sports", "football"],
+			"readerCount": 17,
+			"date": "2010-11-08"
 		},{
-			"id": 5,
+			"id": "5",
 			"headline": "Man City vs Gladbach Champions League game to be played in Budapest",
 			"description": "Tottenham travel restrictions in Europe and will now be held on March 16 at the Puskas Arena, UEFA added. The game was originally scheduled for City's Etihad Stadium, and the first leg in Germany was also shifted to Budapest on February 24 UEFA is able to officially confirm that the UEFA Champions League round of 16 second leg match between Manchester City and Borussia Monchengladbach will now be played at the Puskas Arena in Budapest, the governing body said in a statement.",
-			"subcategory": ["sports", "football"]
+			"subcategory": ["sports", "football"],
+			"readerCount": 17,
+			"date": "2020-11-08"
 		}
 	],
 	"genearl_sports": [
 		{
-			"id": 1,
+			"id": "1",
 			"headline": "'Gift of Life': Gavaskar recalls how Sobers helped him 'keep place in side'",
 			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
 			"description": "NAVI MUMBAI: As Indian celebrates 50 years of his iconic Test debut,Sunil Gavaskar<br />Wednesday said he wouldn't have lasted this long had it not been for a couple of lives given by none other than the great Sir Garfield Sobers<br />In my first Test match that I was playing, I was batting on 12 and a drive outside the off-stump and the catch went to the greatest cricketer...Garfield Sobers, it went straight to him and it poked out of his hands, I was on only 12, so I got a gift of cricketing life there, the 71-year-old said here.",
-			"subcategory": ["sports", "cricket"]
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 7,
+			"date": "2020-01-28"
 		},
 		{
-			"id": 2,
+			"id": "2",
 			"headline": "India vs England T20Is: Top 5 England bowlers to watch out for",
 			"image_link": "https://static.toiimg.com/thumb/msid-81430122,imgsize-816102,width-400,resizemode-4/81430122.jpg",
 			"description": "NEW DELHI: After suffering a 1-3 defeat at the hands of India in the four-match Test series, England will look to turn their fortunes around in the five-match T20I series beginning on March 12 in Ahmedabad.<br />The upcoming series will help both teams get some very good practice before the T20 World Cup which is scheduled to be played in October-November this year in India.The world number one T20I and ODI team, England, boast good bowlers in their ranks who can win matches on their own",
-			"subcategory": ["sports", "cricket"]
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 4,
+			"date": "2010-01-28"
 		},
 		{
-			"id": 3,
-			"headline": "Pant reaches career-best seventh position in ICC Test rankin...",
-			"image_link": "https://static.toiimg.com/thumb/msid-81430122,imgsize-816102,width-400,resizemode-4/81430122.jpg",
-			"description": "DUBAI: Following his breathtaking century in the fourth Test against England, young Indian wicketkeeper batsman<br/>Rishabh Pant on Wednesday achieved a career-best seventh position in the ICC Test rankings< br/> Pant has jumped seven places after smashing a match-winning 101 in the Ahmedabad Test, which India won by an innings and 25 runs to clinch the series 3-1.Washington Sundar, who also played a crucial role in India's passage to the final of the ICC World Test Championship, has gained 39 places and is in 62nd position, thanks to his 96 not out, but captain Virat Kohli and <img src='https://static.toiimg.com/photo/81422300.cms'/>",
-			"subcategory": ["sports", "cricket"]
-		},
-		{
-			"id": 1,
-			"headline": "Record-breaker Haaland can 'dominate an era'",
-			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
-			"description": "BERLIN:coach Julen Lopetegui predicts,We were punished by a player who will dominate an era, said Lopetegui after Haaland sent more Champions League records tumbling with two goals in Tuesday's last 16, return leg. Sevilla earned a 2-2 draw after Youssef En-Nesyri headed his second goal deep into injury time, but Dortmund went through 5-4 on aggregate and the night belonged to Haaland. The Norwegian phenomenon has now scored a career total of 20 goals in just 14 Champions League, including the two he scored in a 3-2 victory when Dortmund won the first-leg in Sevilla.",
-			"subcategory": ["sports", "football"]
-		},
-		{
-			"id": 2,
-			"headline": "Juventus' Ronaldo experiment flops with more Champions Leagu ..",
-			"image_link": "https://static.toiimg.com/thumb/msid-81434805,imgsize-122363,width-400,resizemode-4/81434805.jpg",
-			"description": "TURIN: Cristiano Ronaldo's future at Juventus was in the spotlight after a third Champions League flop for the Portuguese star expensively signed to deliver the trophy that has eluded the Italian giants for quarter of a century. Juventus crashed out in the last 16 for the second year running on Tuesday night, losing to 10-man Porto on away goals despite winning the second leg 3-2 in Turin Record Champions League scorer Ronaldo, who was signed for 100 million euros ($117 million) in the summer of 2018 from",
-			"subcategory": ["sports", "football"]
-		},
-		{
-			"id": 3,
-			"headline": "Jose Mourinho looking to mark career milestone with trophy for Spurs",
-			"description": "Tottenham Hotspur Jose Mourinho will be managing his 1,000th match later this season and the Portuguese said on Wednesday there was no better way to mark the milestone than by winning a trophy for the Spurs last won a trophy in 2008 when they lifted the League Cup and the north London club are in the final once again this season while they are also in contention in the Europa League. < br/>I'm not a big guy on stats, but my 1,000th official match is going to arrive this season, Mourinho told reporters ahead of Thursday's Europa League last-16, first leg against Dinamo Zagreb.",
-			"subcategory": ["sports", "football"]
-		},
-		{
-			"id": 4,
-			"headline": "Jose Mourinho looking to mark career milestone with trophy for Spurs",
-			"description": "Tottenham Hotspur Pep Guardiola says he may not be able to give much time on the pitch before his contract is due to end as the club's record goalscorer, 32, is back in contention after a season ravaged by injury and illness but is short of match fitness and there is little opportunity for the City boss to ease him back into action Asked if he hopes Aguero stays longer at the Etihad, Guardiola said: As a human and as a person, even as a player, of course -- but we have to see what happens at the end of the season.",
-			"subcategory": ["sports", "football"]
-		},
-		{
-			"id": 5,
-			"headline": "Man City vs Gladbach Champions League game to be played in Budapest",
-			"description": "Tottenham travel restrictions in Europe and will now be held on March 16 at the Puskas Arena, UEFA added. The game was originally scheduled for City's Etihad Stadium, and the first leg in Germany was also shifted to Budapest on February 24 UEFA is able to officially confirm that the UEFA Champions League round of 16 second leg match between Manchester City and Borussia Monchengladbach will now be played at the Puskas Arena in Budapest, the governing body said in a statement.",
-			"subcategory": ["sports", "football"]
-		},
-		{
-			"id": 6,
+			"id": "4",
 			"headline": "We are not seeing this as dress rehearsal for T20 World Cup: Rohit Sharma",
 			"image_link": "https://static.toiimg.com/thumb/msid-81434030,imgsize-940863,width-400,resizemode-4/81434030.jpg",
 			"description": "AHMEDABAD: India vice-captain, young Indian wicketkeeper batsman<br/>Rishabh Pant on Wednesday achieved a career-best seventh position in the ICC Test rankings< br/> India have picked some fresh faces for the series while resting lead pacer Jasprit Bumrah as the team looks to build on its preparations for the showpiece event. Pant has jumped seven places after smashing a match-winning 101 in the Ahmedabad Test, which India won by an innings and 25 runs to clinch the series 3-1.Washington Sundar, who also played a crucial role in India's passage to the final of the ICC World Test Championship, on Wednesday said his team is not seeing the upcoming five-match series against England as a dress rehearsal for the",
-			"subcategory": ["sports", "cricket"]
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 6,
+			"date": "2011-11-28"
 		},
 		{
-			"id": 7,
+			"id": "5",
 			"headline": "Michael Vaughan warns Test cricket a 'joke' if England rotate in Ashes",
 			"image_link": "https://static.toiimg.com/thumb/msid-81435233,imgsize-68325,width-400,resizemode-4/81435233.jpg",
 			"description": "LONDON: Michael Vaughan, fears Test cricket will become a 'joke' if England rotate players in and out of their side during the 2021/22 Ashes in Australia< br/> England coach picked some fresh faces for the series while resting lead pacer has suggested the team could continue with the controversial rest-and-rotation policy they used in Sri Lanka and India.. Pant has jumped seven places after smashing a match-winning 101 in the Ahmedabad Test, which India won by an innings and 25 runs to clinch the series 3-1.Washington Sundar, who also played a crucial role in India's passage to the final of the ICC World Test Championship, on Wednesday said his team is not seeing the upcoming five-match series against England as a dress rehearsal for the A number of players including",
-			"subcategory": ["sports", "cricket"]
+			"subcategory": ["sports", "cricket"],
+			"readerCount": 17,
+			"date": "2010-01-18"
+		},
+		{
+			"id": "6",
+			"headline": "Record-breaker Haaland can 'dominate an era'",
+			"image_link": "https://static.toiimg.com/thumb/resizemode-4,msid-81411089,imgsize-61610,width-400/81411089.jpg",
+			"description": "BERLIN:coach Julen Lopetegui predicts,We were punished by a player who will dominate an era, said Lopetegui after Haaland sent more Champions League records tumbling with two goals in Tuesday's last 16, return leg. Sevilla earned a 2-2 draw after Youssef En-Nesyri headed his second goal deep into injury time, but Dortmund went through 5-4 on aggregate and the night belonged to Haaland. The Norwegian phenomenon has now scored a career total of 20 goals in just 14 Champions League, including the two he scored in a 3-2 victory when Dortmund won the first-leg in Sevilla.",
+			"subcategory": ["sports", "football"],
+			"readerCount": 7,
+			"date": "2020-11-28"
+		},
+		{
+			"id": "7",
+			"headline": "Juventus' Ronaldo experiment flops with more Champions Leagu ..",
+			"image_link": "https://static.toiimg.com/thumb/msid-81434805,imgsize-122363,width-400,resizemode-4/81434805.jpg",
+			"description": "TURIN: Cristiano Ronaldo's future at Juventus was in the spotlight after a third Champions League flop for the Portuguese star expensively signed to deliver the trophy that has eluded the Italian giants for quarter of a century. Juventus crashed out in the last 16 for the second year running on Tuesday night, losing to 10-man Porto on away goals despite winning the second leg 3-2 in Turin Record Champions League scorer Ronaldo, who was signed for 100 million euros ($117 million) in the summer of 2018 from",
+			"subcategory": ["sports", "football"],
+			"readerCount": 1,
+			"date": "2011-11-28"
+		},
+		{
+			"id": "8",
+			"headline": "Jose Mourinho looking to mark career milestone with trophy for Spurs",
+			"description": "Tottenham Hotspur Jose Mourinho will be managing his 1,000th match later this season and the Portuguese said on Wednesday there was no better way to mark the milestone than by winning a trophy for the Spurs last won a trophy in 2008 when they lifted the League Cup and the north London club are in the final once again this season while they are also in contention in the Europa League. < br/>I'm not a big guy on stats, but my 1,000th official match is going to arrive this season, Mourinho told reporters ahead of Thursday's Europa League last-16, first leg against Dinamo Zagreb.",
+			"subcategory": ["sports", "football"],
+			"readerCount": 7,
+			"date": "2011-11-18"
+		},
+		{
+			"id": "9",
+			"headline": "Jose Mourinho looking to mark career milestone with trophy for Spurs",
+			"description": "Tottenham Hotspur Pep Guardiola says he may not be able to give much time on the pitch before his contract is due to end as the club's record goalscorer, 32, is back in contention after a season ravaged by injury and illness but is short of match fitness and there is little opportunity for the City boss to ease him back into action Asked if he hopes Aguero stays longer at the Etihad, Guardiola said: As a human and as a person, even as a player, of course -- but we have to see what happens at the end of the season.",
+			"subcategory": ["sports", "football"],
+			"readerCount": 17,
+			"date": "2010-11-08"
+		},
+		{
+			"id": "11",
+			"headline": "Man City vs Gladbach Champions League game to be played in Budapest",
+			"description": "Tottenham travel restrictions in Europe and will now be held on March 16 at the Puskas Arena, UEFA added. The game was originally scheduled for City's Etihad Stadium, and the first leg in Germany was also shifted to Budapest on February 24 UEFA is able to officially confirm that the UEFA Champions League round of 16 second leg match between Manchester City and Borussia Monchengladbach will now be played at the Puskas Arena in Budapest, the governing body said in a statement.",
+			"subcategory": ["sports", "football"],
+			"readerCount": 17,
+			"date": "2020-11-08"
 		}
+	
 	],
 	"adsCorner": [
 		{
