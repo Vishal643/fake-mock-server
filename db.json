@@ -24,24 +24,28 @@
 	],
 	"products": [
 		{
+			"id": "1",
 			"product_name":"Samsung A4",
 			"stock_available": true,
 			 "quantity": "12",
 			"price": 12000
 		  },
 		  {
+			"id": "2",
 			"product_name":"Moto G1",
 			"stock_available": true,
 			 "quantity": "10",
 			"price": 11000
 		  },
 		  {
+			"id": "3",
 			"product_name":"Samsung A1",
 			"stock_available": false,
 			 "quantity": "9",
 			"price": 15000
 		  },
 		  {
+			"id": "4",
 			"product_name":"MI A1",
 			"stock_available": true,
 			"quantity": "12",
