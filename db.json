@@ -23,10 +23,30 @@
 		}
 	],
 	"products": [
-		{ "name": "SmartPhone", "price": 30, "id": 0, "category": "Phone" },
-		{ "name": "Watch", "price": 20, "id": 1, "category": "Watch" },
-		{ "name": "Shirt", "price": 50, "id": 2, "category": "Clothings" },
-		{ "name": "Pants", "price": 100, "id": 3, "category": "Clothings" }
+		{
+			"product_name":"Samsung A4",
+			"stock_available": true,
+			 "quantity": "12",
+			"price": 12000
+		  },
+		  {
+			"product_name":"Moto G1",
+			"stock_available": true,
+			 "quantity": "10",
+			"price": 11000
+		  },
+		  {
+			"product_name":"Samsung A1",
+			"stock_available": false,
+			 "quantity": "9",
+			"price": 15000
+		  },
+		  {
+			"product_name":"MI A1",
+			"stock_available": true,
+			"quantity": "12",
+			"price": 10000
+		  }
 	],
 	"product-card": [
 		{
